@@ -1,5 +1,7 @@
 # 🧠 AI Persistent Memory System
 
+**English** | [中文](./README_CN.md)
+
 A **physical-file-based, version-controllable, structured** persistent memory system designed for AI assistants (Claude, GPT, Gemini, etc.) that lack built-in long-term memory.
 
 ## 🤔 Why This Exists
