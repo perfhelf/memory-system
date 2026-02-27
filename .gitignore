@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets - NEVER commit real keys
+秘钥文档/*.md
+!秘钥文档/00_密钥总控台_Registry.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Conversation logs with real data (templates are fine)
+99_对话存档_Logs/01_最近一周_Week/*.md
+99_对话存档_Logs/02_当月沉淀_Month/*.md
+99_对话存档_Logs/03_历史归档_Archive/**/*.md
+!99_对话存档_Logs/00_模板_LogTemplate.md
